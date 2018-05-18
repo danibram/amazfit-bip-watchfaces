@@ -11,7 +11,7 @@
             "Ones": {
                 "ImageIndex": 1,
                 "ImagesCount": 10,
-                "X": 92,
+                "X": 48,
                 "Y": 85
             },
             "Tens": {
@@ -31,7 +31,7 @@
             "Tens": {
                 "ImageIndex": 1,
                 "ImagesCount": 10,
-                "X": 48,
+                "X": 92,
                 "Y": 85
             }
         }
