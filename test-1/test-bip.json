@@ -1,7 +1,7 @@
 {
     "Background": {
         "Image": {
-            "ImageIndex": 000,
+            "ImageIndex": 0,
             "X": 0,
             "Y": 0
         }
@@ -48,9 +48,9 @@
             "TwoDigitsDay": true,
             "OneLine": {
                 "Number": {
-                    "TopLeftX": 50,
+                    "TopLeftX": 60,
                     "TopLeftY": 14,
-                    "BottomRightX": 99,
+                    "BottomRightX": 109,
                     "BottomRightY": 23,
                     "Alignment": "TopLeft",
                     "Spacing": 2,
