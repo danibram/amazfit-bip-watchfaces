@@ -7,6 +7,4 @@
 *   [Big numbers nonkm](https://amazfitwatchfaces.com/bip/view/?id=7437)
 *   [Digital](https://amazfitwatchfaces.com/bip/view/?id=7483)
 
-To edit or preview:
-
-https://v1ack.github.io/watchfaceEditor/
+To edit or preview -> [Editor](https://v1ack.github.io/watchfaceEditor/)
